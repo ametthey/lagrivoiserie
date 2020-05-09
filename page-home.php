@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
  * Template Name: Welcome
  *
@@ -30,24 +30,24 @@ get_header(); ?>
                 <h1>MENU</h1>
                 <p><?php the_field('menu');?></p>
             </div>
-        </div>  
+        </div>
         <footer>
             <div class="desktop__social">
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/instagram.svg" alt="">
-                    <a href="">INSTAGRAM</a>
+                    <a href="https://www.instagram.com/lagrivoiserie/" target="_blank">INSTAGRAM</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/map.svg" alt="">
-                    <a href="">MAPS</a>
+                    <a href="https://g.page/la-grivoiserie?share" target="_blank">MAPS</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/appeler.svg" alt="">
-                    <a href="">APPELER</a>
+                    <a href="tel:+330145491040">APPELER</a>
                 </div>
             </div>
             <div class="desktop__adress">
-                <p>La Grivoiserie  -  3 rue sainte Beuve  75006 Paris  -  01 45 34 57 64</p> 
+                <p>La Grivoiserie  -  3 rue sainte Beuve  75006 Paris  -  01 45 34 57 64</p>
             </div>
         </footer>
     </div>
@@ -61,15 +61,15 @@ get_header(); ?>
             <div class="desktop__social">
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/instagram.svg" alt="">
-                    <a href="">INSTAGRAM</a>
+                    <a href="https://www.instagram.com/lagrivoiserie/" target="_blank">INSTAGRAM</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/map.svg" alt="">
-                    <a href="">MAPS</a>
+                    <a href="https://g.page/la-grivoiserie?share" target="_blank">MAPS</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/appeler.svg" alt="">
-                    <a href="">APPELER</a>
+                    <a href="tel:+330145491040">APPELER</a>
                 </div>
             </div>
         </footer>
@@ -84,15 +84,15 @@ get_header(); ?>
             <div class="desktop__social">
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/instagram.svg" alt="">
-                    <a href="">INSTAGRAM</a>
+                    <a href="https://www.instagram.com/lagrivoiserie/" target="_blank">INSTAGRAM</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/map.svg" alt="">
-                    <a href="">MAPS</a>
+                    <a href="https://g.page/la-grivoiserie?share" target="_blank">MAPS</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/appeler.svg" alt="">
-                    <a href="">APPELER</a>
+                    <a href="tel:+330145491040">APPELER</a>
                 </div>
             </div>
         </footer>
@@ -106,7 +106,7 @@ get_header(); ?>
             <div class="desktop__social">
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/instagram.svg" alt="">
-                    <a href="">INSTAGRAM</a>
+                    <a href="https://www.instagram.com/lagrivoiserie/" target="_blank">INSTAGRAM</a>
                 </div>
                 <div class="social__item">
                     <img src="/wp-content/themes/lagrivoiserie/dist/assets/images/map.svg" alt="">

@@ -58,6 +58,57 @@
             "maxlength": "",
             "rows": "",
             "new_lines": "br"
+        },
+        {
+            "key": "field_5fa675bea5597",
+            "label": "Instagram",
+            "name": "instagram",
+            "type": "url",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fa675f8a5598",
+            "label": "Google maps",
+            "name": "google_maps",
+            "type": "url",
+            "instructions": "",
+            "required": "Instagram",
+            "conditional_logic": null,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5fa67606a5599",
+            "label": "Téléphone",
+            "name": "telephone",
+            "type": "text",
+            "instructions": "rentrer le numéro normal\r\nexemple:  0145345764",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
         }
     ],
     "location": [
@@ -71,7 +122,7 @@
     ],
     "menu_order": 0,
     "position": "normal",
-    "style": "seamless",
+    "style": "default",
     "label_placement": "top",
     "instruction_placement": "label",
     "hide_on_screen": [
@@ -92,5 +143,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1588344933
+    "modified": 1604748665
 }
